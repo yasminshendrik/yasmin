@@ -1,4 +1,4 @@
-yasmin-main
-===========
+yasmin
+======
 
 main repo for yasmin
