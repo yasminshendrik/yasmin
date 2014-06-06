@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<lxCollection version="1">
+	<lxPackage name="Yasmin"
+		path=""
+		desc="Yasmin-Fantasy-Commands"
+		class="TRUE">
+		<lxCommand name="\NorDael"
+			parameters="0"
+		/>
+		<lxCommand name="\Dora"
+			parameters="0"
+		/>
+		<lxCommand name="\Karol"
+			parameters="0"
+		/>
+	</lxPackage>
+</lxCollection>

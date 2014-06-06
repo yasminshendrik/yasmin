@@ -1,0 +1,197 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1314563687010" ID="ID_1173144546" MODIFIED="1322255819562" TEXT="Yasmin Content">
+<node CREATED="1314563702217" FOLDED="true" ID="ID_90796240" MODIFIED="1322255812611" POSITION="right" TEXT="Alte Frau auf Br&#xfc;cke">
+<node CREATED="1319574009313" ID="ID_524264927" MODIFIED="1319574015550" TEXT="Fluss in einem Wald">
+<node CREATED="1319575449533" ID="ID_1155607278" MODIFIED="1319575455718" TEXT="Holzbr&#xfc;cke"/>
+<node CREATED="1319575456159" ID="ID_1516992024" MODIFIED="1319575477279" TEXT="hoher Wasserstand, viel kleines Treibgut"/>
+<node CREATED="1319575477928" ID="ID_1095605488" MODIFIED="1319575506973" TEXT="Frau sitzt auf der Br&#xfc;cke, l&#xe4;st die Beine &#xfc;ber dem Wasser baumeln">
+<node CREATED="1319575549042" ID="ID_1542554739" MODIFIED="1319575557301" TEXT="sieht dem Strom entgegen"/>
+<node CREATED="1319575560788" ID="ID_1611812472" MODIFIED="1319575563127" TEXT="schweigsam"/>
+</node>
+<node CREATED="1319575509981" ID="ID_461427567" MODIFIED="1319575520613" TEXT="Hendrik h&#xe4;lt an, um nach dem Weg zu fragen"/>
+</node>
+</node>
+<node CREATED="1314563719254" ID="ID_537269383" MODIFIED="1314563743010" POSITION="left" TEXT="schaukelnde Kutsche"/>
+<node CREATED="1319484375776" FOLDED="true" ID="ID_783706442" MODIFIED="1322255810461" POSITION="right" TEXT="Yasmin Quelle">
+<node CREATED="1319574053003" ID="ID_1020737247" MODIFIED="1319574078104" TEXT="geschw&#xe4;cht durch Schatten und Folter"/>
+<node CREATED="1319484488007" ID="ID_302743704" MODIFIED="1319574105346" TEXT="muss zur Quelle zur&#xfc;ck, um neue Kraft zu tanken">
+<node CREATED="1319574130917" ID="ID_1287943947" MODIFIED="1319574142741" TEXT="verschiedene Zug&#xe4;nge zur Quelle">
+<node CREATED="1319574145720" ID="ID_383112593" MODIFIED="1319574148733" TEXT="Kennzeichen?"/>
+</node>
+</node>
+<node CREATED="1319574169536" ID="ID_254630647" MODIFIED="1319574192708" TEXT="kann am besten Licht aufnehmen in ihrer urspr&#xfc;nglichen Form">
+<node CREATED="1319574198708" ID="ID_379695515" MODIFIED="1319574210354" TEXT="au&#xdf;erdem kr&#xe4;ftesparend"/>
+<node CREATED="1319574223871" ID="ID_1100673146" MODIFIED="1319574233706" TEXT="ist dann aber f&#xfc;r alle au&#xdf;er Hendrik unsichtbar"/>
+<node CREATED="1319574240075" ID="ID_1777554275" MODIFIED="1319574256881" TEXT="keine eigene Fortbewegung m&#xf6;glich, muss sich an Hendrik &quot;dranh&#xe4;ngen&quot;"/>
+<node CREATED="1319574258580" ID="ID_1461728706" MODIFIED="1319574270095" TEXT="Kolmmunikation nur auf mentaler Ebene m&#xf6;glich"/>
+</node>
+<node CREATED="1319574306125" ID="ID_1563405003" MODIFIED="1319574336626" TEXT="Hendrik sucht die Quelle, bringt Yasmin dorthin">
+<node CREATED="1319574380532" ID="ID_968601765" MODIFIED="1319574415241" TEXT="W&#xe4;chter der Quelle">
+<node CREATED="1319574453379" ID="ID_384883134" MODIFIED="1319574458964" TEXT="halb Mensch, halb Wolf">
+<node CREATED="1319574460250" ID="ID_188041511" MODIFIED="1319574463926" TEXT="Formwandler?"/>
+</node>
+<node CREATED="1319574550515" ID="ID_690710239" MODIFIED="1319574589372" TEXT="darf seinen Posten nicht verlassen"/>
+</node>
+<node CREATED="1319574342007" ID="ID_1016336113" MODIFIED="1319574478349" TEXT="Hendrik darf der Quelle nicht nahkommen"/>
+<node CREATED="1319574353250" ID="ID_462967469" MODIFIED="1319574511502" TEXT="Yasmin muss selbst die Quelle betreten">
+<node CREATED="1319574514094" ID="ID_917893051" MODIFIED="1319574516561" TEXT="R&#xfc;ckverwandlung in Mensch n&#xf6;tig"/>
+<node CREATED="1319574517414" ID="ID_18116455" MODIFIED="1319574544058" TEXT="Schw&#xe4;cheanfall, bewusstlos"/>
+<node CREATED="1319574592252" ID="ID_1588551509" MODIFIED="1319574609292" TEXT="W&#xe4;chter erlaubt Hendrik, Yasmin in die Quelle zu legen">
+<node CREATED="1319574611895" ID="ID_1188722810" MODIFIED="1319574618911" TEXT="Gegenleistung?"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1319484390386" FOLDED="true" ID="ID_670282001" MODIFIED="1322255811417" POSITION="right" TEXT="Tal der Fl&#xfc;sse">
+<node CREATED="1319484522119" ID="ID_1636237705" MODIFIED="1319484529479" TEXT="Delta der 7 Fl&#xfc;sse">
+<node CREATED="1319574761526" ID="ID_605795433" MODIFIED="1319574777039" TEXT="Flussbetten liegen 50m &#xfc;ber Meeresspiegel">
+<node CREATED="1319574781923" ID="ID_1838790187" MODIFIED="1319574787899" TEXT="Wasserf&#xe4;lle">
+<node CREATED="1319574788219" ID="ID_585976997" MODIFIED="1319574802381" TEXT="haben Tal gegraben">
+<node CREATED="1319574817227" ID="ID_1693719390" MODIFIED="1319574835645" TEXT="bilden ein sich st&#xe4;ndig ver&#xe4;nderndes Flussnetz"/>
+<node CREATED="1319574836130" ID="ID_791611398" MODIFIED="1319574851014" TEXT="Mangroven, Sumpf, einzelne Inseln"/>
+</node>
+<node CREATED="1319574867069" ID="ID_909950090" MODIFIED="1319574915380" TEXT="ein paar Kilometer breit"/>
+<node CREATED="1319574916004" ID="ID_1937644599" MODIFIED="1319574922495" TEXT="Meer in Sicht, aber weit weg"/>
+</node>
+<node CREATED="1319574947783" ID="ID_1892181780" MODIFIED="1319574956112" TEXT="Abstieg?"/>
+</node>
+</node>
+<node CREATED="1319574961482" ID="ID_1592844523" MODIFIED="1319575074500" TEXT="Lebewesen">
+<node CREATED="1319575054373" ID="ID_1752303119" MODIFIED="1319575064398" TEXT="haupts&#xe4;chlich pflanzlich"/>
+<node CREATED="1319575074485" ID="ID_1862648762" MODIFIED="1319575104198" TEXT="tierische Alternativen">
+<node CREATED="1319574979786" ID="ID_1010865065" MODIFIED="1319574984461" TEXT="auf B&#xe4;umen lebend">
+<node CREATED="1319575225838" ID="ID_1442611226" MODIFIED="1319575233217" TEXT="auch Menschen"/>
+</node>
+<node CREATED="1319574985130" ID="ID_946829856" MODIFIED="1319574997349" TEXT="lange d&#xfc;nne Beine und gro&#xdf;e F&#xfc;&#xdf;e">
+<node CREATED="1319575177328" ID="ID_324609551" MODIFIED="1319575191597" TEXT="&quot;Storchenaffen&quot;"/>
+</node>
+<node CREATED="1319574998054" ID="ID_847101351" MODIFIED="1319575001149" TEXT="amphibisch">
+<node CREATED="1319575132103" ID="ID_1281564054" MODIFIED="1319575135886" TEXT="Krokodile"/>
+<node CREATED="1319575120272" ID="ID_219064906" MODIFIED="1319575131816" TEXT="Flusspferde"/>
+</node>
+<node CREATED="1319575018461" ID="ID_26878091" MODIFIED="1319575025448" TEXT="aquatisch">
+<node CREATED="1319575159000" ID="ID_1093287554" MODIFIED="1319575161076" TEXT="Fische"/>
+<node CREATED="1319575161326" ID="ID_1950532082" MODIFIED="1319575164259" TEXT="Seek&#xfc;he"/>
+</node>
+</node>
+</node>
+<node CREATED="1319575284158" ID="ID_1384589783" MODIFIED="1319575289637" TEXT="keine Magie erlaubt!">
+<node CREATED="1319575292963" ID="ID_480711109" MODIFIED="1319575297444" TEXT="Konsequenzen?"/>
+<node CREATED="1319575297806" ID="ID_904263199" MODIFIED="1319575309553" TEXT="h&#xe4;lt sich Hendrik daran?"/>
+</node>
+</node>
+<node CREATED="1319573580584" ID="ID_1087427969" MODIFIED="1319573612447" POSITION="left" TEXT="Tempel der Winde"/>
+<node CREATED="1319573635464" FOLDED="true" ID="ID_964066996" MODIFIED="1322255808820" POSITION="left" TEXT="Orden des Patchouli">
+<node CREATED="1319573980031" ID="ID_1652432159" MODIFIED="1319573998770" TEXT="heimliche Treffen von Erdmagiern, da dort verboten">
+<node CREATED="1319573999074" ID="ID_331098021" MODIFIED="1319575366294" TEXT="Wo treffen?"/>
+<node CREATED="1319575366998" ID="ID_1744768713" MODIFIED="1319575369896" TEXT="Wo verboten?"/>
+</node>
+<node CREATED="1319575404067" ID="ID_138757482" MODIFIED="1319575419864" TEXT="Erkennungszeichen: Rauch von verbranntem Patchouli"/>
+</node>
+<node CREATED="1319575580881" ID="ID_871135851" MODIFIED="1319575586929" POSITION="right" TEXT="R&#xfc;ckkehr der Ewigen"/>
+<node CREATED="1321998286655" FOLDED="true" ID="ID_213339818" MODIFIED="1322255807360" POSITION="left" TEXT="Drachenherz">
+<node CREATED="1321998317016" ID="ID_1893887022" MODIFIED="1321998422554" TEXT="Seltene F&#xe4;higkeit unter den Drachen"/>
+<node CREATED="1321998423222" ID="ID_1484235891" MODIFIED="1321998451419" TEXT="B&#xfc;ndelt die Flamme und die Erinnerung eines Drachen in einen Rubin"/>
+<node CREATED="1321998457315" ID="ID_643221507" MODIFIED="1321998520159" TEXT="Karol erm&#xf6;glicht Hendrik und ??? die Flucht">
+<node CREATED="1321998522542" ID="ID_254700123" MODIFIED="1321998542686" TEXT="kehrt schwer verletzt zur Gruppe zur&#xfc;ck"/>
+<node CREATED="1321998543216" ID="ID_813834580" MODIFIED="1321998554945" TEXT="f&#xfc;r Heilung zu sp&#xe4;t"/>
+<node CREATED="1321998555431" ID="ID_842561969" MODIFIED="1321998573913" TEXT="bittet Hendrik, den Stein Dora zu bringen"/>
+<node CREATED="1321998574408" ID="ID_1180747244" MODIFIED="1321998582904" TEXT="stirbt, K&#xf6;rper geht in Flammen auf">
+<node CREATED="1321998585075" ID="ID_166086761" MODIFIED="1321998597971" TEXT="ein Rubin bleibt zur&#xfc;ck">
+<node CREATED="1321998599919" ID="ID_514360305" MODIFIED="1321998628546" TEXT="Figuren, Rauchwirbel im Innern zu sehen"/>
+<node CREATED="1321998902135" ID="ID_1486399882" MODIFIED="1321998915909" TEXT="-&gt; Drachenherz"/>
+</node>
+<node CREATED="1322004270974" ID="ID_166456498" MODIFIED="1322004288640" TEXT="Hendrik kann sich nur knapp sch&#xfc;tzen"/>
+</node>
+</node>
+<node CREATED="1321998632792" ID="ID_1729127790" MODIFIED="1321998924177" TEXT="Hendrik nimmt Herz an sich"/>
+<node CREATED="1321998764488" ID="ID_894771418" MODIFIED="1321999275579" TEXT="Hendrik bringt zun&#xe4;chst ??? in Sicherheit">
+<node CREATED="1321998879200" ID="ID_434694989" MODIFIED="1321998896105" TEXT="Herz wird gestohlen"/>
+</node>
+<node CREATED="1321999317456" ID="ID_1333028316" MODIFIED="1321999331614" TEXT="Suche nach Herz">
+<node CREATED="1321999334621" ID="ID_518755000" MODIFIED="1321999375071" TEXT="Alice begleitet Hendrik">
+<node CREATED="1321999387900" ID="ID_824071758" MODIFIED="1321999442369" TEXT="Eines ihrer B&#xfc;cher ist ebenfalls verschwunden"/>
+</node>
+<node CREATED="1321999448770" ID="ID_729532607" MODIFIED="1321999466983" TEXT="Hendrik gibt sich als Kunstsammler aus">
+<node CREATED="1321999469261" ID="ID_1950504681" MODIFIED="1321999492968" TEXT="auf der Suche nach seltenen Schmucksteinen"/>
+<node CREATED="1321999496938" ID="ID_43418428" MODIFIED="1321999518493" TEXT="Fragt auch bei dubiosen H&#xe4;ndlern nach"/>
+<node CREATED="1321999657657" ID="ID_1597423126" MODIFIED="1321999687657" TEXT="findet schlie&#xdf;lich einen selbsternannten Forscher (Luftmagier)">
+<node CREATED="1321999697975" ID="ID_1155412021" MODIFIED="1321999710988" TEXT="hat das Buch angeblich gefunden"/>
+<node CREATED="1321999711403" ID="ID_1914505045" MODIFIED="1321999724369" TEXT="im Buch einen Hinweis auf Drachenherzen"/>
+<node CREATED="1321999724884" ID="ID_768915513" MODIFIED="1321999744898" TEXT="hat dann das Herz gekauft"/>
+<node CREATED="1321999745449" ID="ID_235386354" MODIFIED="1321999821105" TEXT="will sich seinen Inhalt aneignen">
+<node CREATED="1321999767489" ID="ID_1713039533" MODIFIED="1321999794254" TEXT="Macht/St&#xe4;rke/magische F&#xe4;higkeiten"/>
+<node CREATED="1321999771639" ID="ID_1161307584" MODIFIED="1321999776243" TEXT="Wissen der Drachen"/>
+</node>
+</node>
+<node CREATED="1321999891750" ID="ID_951490918" MODIFIED="1321999898574" TEXT="Kaufverhandlungen schlagen fehl"/>
+<node CREATED="1321999905340" ID="ID_278903241" MODIFIED="1321999923254" TEXT="Versuch, das Herz zu stehlen">
+<node CREATED="1321999925194" ID="ID_177115834" MODIFIED="1321999932350" TEXT="werden erwischt"/>
+<node CREATED="1321999932811" ID="ID_1470057513" MODIFIED="1322000151273" TEXT="es kommt zum Kampf mit dem Magier">
+<node CREATED="1321999985912" ID="ID_523864666" MODIFIED="1321999994164" TEXT="St&#xe4;rke des Magiers untersch&#xe4;tzt"/>
+<node CREATED="1321999959209" ID="ID_1708556266" MODIFIED="1321999966689" TEXT="Hendrik kann knapp entkommen"/>
+<node CREATED="1321999966944" ID="ID_1837898846" MODIFIED="1321999977850" TEXT="Alice ger&#xe4;t in Gefangenschaft"/>
+<node CREATED="1322000336909" ID="ID_1294314156" MODIFIED="1322000342205" TEXT="Der Magier verschwindet"/>
+</node>
+</node>
+<node CREATED="1322000349149" ID="ID_1671985440" MODIFIED="1322000359145" TEXT="Hendrik folgt seiner Spur"/>
+<node CREATED="1322000398428" ID="ID_1841161426" MODIFIED="1322000409051" TEXT="Yasmin st&#xf6;&#xdf;t zu ihm">
+<node CREATED="1322000429247" ID="ID_1733980744" MODIFIED="1322000443925" TEXT="die ??? haben sie informiert"/>
+<node CREATED="1322000478516" ID="ID_1228602086" MODIFIED="1322000491366" TEXT="ein paar von ihnen begleiten Yasmin"/>
+</node>
+<node CREATED="1322000509667" ID="ID_671848375" MODIFIED="1322001115462" TEXT="gemeinsam sp&#xfc;ren sie den Magier auf">
+<node CREATED="1322000966029" ID="ID_316206974" MODIFIED="1322001085530" TEXT="Alice hat inzwischen etwas Vertrauen gesammelt">
+<node CREATED="1322001003997" ID="ID_120715476" MODIFIED="1322001047581" TEXT="erh&#xe4;lt kurzfristig &quot;Ausgang&quot; f&#xfc;r Besorgungen"/>
+<node CREATED="1322001051276" ID="ID_1620562127" MODIFIED="1322001061775" TEXT="Magische Fesseln binden sie an den Magier"/>
+</node>
+<node CREATED="1322001398472" ID="ID_1067135063" MODIFIED="1322001432235" TEXT="sie verr&#xe4;t ihnen Versteck und Zugang"/>
+</node>
+<node CREATED="1322002046203" ID="ID_1571784222" MODIFIED="1322002070892" TEXT="w&#xe4;hrend eines Ablenkungsman&#xf6;vers durch Alice dringen sie in das Versteck ein"/>
+<node CREATED="1322002142986" ID="ID_1197323003" MODIFIED="1322002152490" TEXT="es kommt erneut zum Kampf">
+<node CREATED="1322002154756" ID="ID_424947997" MODIFIED="1322002177375" TEXT="nur knapp gelingt es einem der ???, die Magie des Magiers zu brechen">
+<node CREATED="1322002185674" ID="ID_920432993" MODIFIED="1322002195306" TEXT="Alice kommt frei"/>
+</node>
+<node CREATED="1322002224633" ID="ID_1681380843" MODIFIED="1322002272706" TEXT="Alice zerst&#xf6;rt mit ihren Kr&#xe4;ften das Versteck">
+<node CREATED="1322002278893" ID="ID_1777659544" MODIFIED="1322002293970" TEXT="ersch&#xf6;pft sich dabei v&#xf6;llig"/>
+<node CREATED="1322002351698" ID="ID_574346103" MODIFIED="1322002362780" TEXT="brennt magisch aus"/>
+</node>
+</node>
+<node CREATED="1322002302067" ID="ID_1165110975" MODIFIED="1322002327166" TEXT="aus den Tr&#xfc;mmern k&#xf6;nnen Reste des Buches und das Herz geborgen werden">
+<node CREATED="1322002395666" ID="ID_644483547" MODIFIED="1322002402123" TEXT="der Magier entkommt"/>
+</node>
+</node>
+<node CREATED="1322002436181" ID="ID_1670677147" MODIFIED="1322002460578" TEXT="R&#xfc;ckkehr zu Dora">
+<node CREATED="1322002462216" ID="ID_1832724516" MODIFIED="1322002494693" TEXT="Yasmin wei&#xdf;, wo sich die Drachen aufhalten"/>
+<node CREATED="1322002824736" ID="ID_914093548" MODIFIED="1322002837435" TEXT="Dora ist au&#xdf;er sich vor Wut und Trauer"/>
+<node CREATED="1322002840945" ID="ID_1048473706" MODIFIED="1322002897333" TEXT="Hendrik muss sie mit aller Kraft beruhigen"/>
+<node CREATED="1322002947714" ID="ID_1615529426" MODIFIED="1322002965514" TEXT="an einem einsamen Ort &#xfc;bergibt er ihr das Herz">
+<node CREATED="1322003107171" ID="ID_1774012537" MODIFIED="1322003202500" TEXT="bl&#xfc;ten&#xe4;hnliche &#xd6;ffnung erscheint auf ihrem R&#xfc;cken"/>
+<node CREATED="1322003205021" ID="ID_1299127689" MODIFIED="1322003316740" TEXT="Hendrik darf das Herz hineinlegen"/>
+<node CREATED="1322003318331" ID="ID_1755849797" MODIFIED="1322003366632" TEXT="Karols Gef&#xfc;hle, Gedanken, Erinnerungen &#xfc;berrollen Dora, &#xa;w&#xe4;hrend sich seine Flamme mit ihrer vereint">
+<node CREATED="1322003546646" ID="ID_1017984026" MODIFIED="1322003581252" TEXT="Hendrik f&#xfc;hlt alles mit"/>
+</node>
+</node>
+</node>
+<node CREATED="1322003821038" ID="ID_549164431" MODIFIED="1322003833901" TEXT="Trost f&#xfc;r Alice">
+<node CREATED="1322003836297" ID="ID_1426352384" MODIFIED="1322003851497" TEXT="Lehre f&#xfc;r Hendrik, seine Kr&#xe4;fte zu kontrollieren"/>
+<node CREATED="1322004309093" ID="ID_1626490318" MODIFIED="1322004326302" TEXT="Dora und Alice gehen einen magischen Bund ein"/>
+</node>
+</node>
+</node>
+<node CREATED="1322172549675" FOLDED="true" ID="ID_605357207" MODIFIED="1322255833690" POSITION="right" TEXT="Gargoyles">
+<node CREATED="1322255135520" ID="ID_1929024198" MODIFIED="1322255146324" TEXT="Forscher">
+<node CREATED="1322255147685" ID="ID_505351613" MODIFIED="1322255153373" TEXT="verneint Existenz von Magie"/>
+<node CREATED="1322255247859" ID="ID_1851778635" MODIFIED="1322255275298" TEXT="noch keinen Gargoyle gefangen"/>
+</node>
+<node CREATED="1322255158292" ID="ID_530357410" MODIFIED="1322255166266" TEXT="verschiedene Gr&#xf6;&#xdf;en">
+<node CREATED="1322255167779" ID="ID_1611808306" MODIFIED="1322255195738" TEXT="klein: scharfe Z&#xe4;hne und Krallen"/>
+<node CREATED="1322255197094" ID="ID_727647126" MODIFIED="1322255210250" TEXT="gro&#xdf;: stark und ungew&#xf6;hnlich schnell"/>
+</node>
+<node CREATED="1322255215021" ID="ID_370099866" MODIFIED="1322255231716" TEXT="Fl&#xfc;gel, gedrungene Gestalt"/>
+<node CREATED="1322255320412" ID="ID_378938677" MODIFIED="1322255328092" TEXT="Nahrung unklar">
+<node CREATED="1322255329241" ID="ID_1341735029" MODIFIED="1322255348817" TEXT="werden von allem Essbaren angelockt, r&#xfc;hren aber nichts an"/>
+</node>
+</node>
+</node>
+</map>

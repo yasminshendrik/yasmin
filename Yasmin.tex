@@ -1,0 +1,112 @@
+% Optionen zum Layout des Buchs                                     %%
+\documentclass[
+	a5paper,			% alle weiteren Papierformate einstellbar
+	pagesize,
+	11pt,					% Schriftgröße (12pt, 11pt (Standard))
+	BCOR1cm,			% Bindekorrektur, bspw. 1 cm
+	DIV=calc,			% führt die Satzspiegelberechnung neu aus
+	parskip=half,	% Absatzformatierung s. scrguide 3.1
+]
+{scrbook}
+
+%% Deutsche Anpassungen %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage[utf8]{inputenc}
+\usepackage[ansinew]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage[%
+	pdffitwindow=false,%
+	pdfstartview={FitV},%
+	linktoc=all,%
+	colorlinks=true,%
+	citecolor=black,%
+	filecolor=black,%
+	linkcolor=black,%
+	urlcolor=black%	
+]{hyperref}
+
+%Namenskonstanten definieren (Rechtschreibung)
+\input{Hyphenation}
+\input{Namen}
+\input{Formats}
+
+\clubpenalty=10000 
+\widowpenalty=10000 
+\displaywidowpenalty=10000 
+
+\pagestyle{plain}
+
+\begin{document}
+
+%Titelseite
+\include{Frontpage}%
+
+\tableofcontents%
+
+%Prolog
+	\input{Chapters/Prolog/bar}%
+	(\ldots)%TODO missing content: Prolog
+	\input{Chapters/Prolog/daemonen}%
+	\input{Chapters/Prolog/mantel}%
+	\input{Chapters/Prolog/mantel2}%
+
+%Bei den Spinnen
+	\input{Chapters/spinnenhoehle}%
+
+%Yasmin verschwunden
+	\input{Chapters/Moswara/yasmin_verschwunden}%
+	\input{Chapters/Moswara/moswara}%
+
+%Bei den Drachen
+	\input{Chapters/Moswara/kajira}%
+	\input{Chapters/Moswara/drachenreiter}%
+	\input{Chapters/Moswara/drachenreiter2}%
+	\input{Chapters/Moswara/drachenreiter3}%
+
+%Feuermagier
+	\input{Chapters/Feuermagier/lehrling}%
+	\input{Chapters/Feuermagier/feuer}%
+
+%Träumer
+	\input{Chapters/Traeumer/traeumer}
+
+%Bei den Feen
+	\input{Chapters/Feenwald/tag1}%
+	\input{Chapters/Feenwald/tag4}%
+	\input{Chapters/Feenwald/tag5}%
+	\input{Chapters/Feenwald/tag6}%
+	\input{Chapters/Feenwald/tag7}%
+	\input{Chapters/Feenwald/tag8}%
+	\input{Chapters/Feenwald/tag12}%
+
+%Göttertempel
+	\input{Chapters/tempel}%
+
+%Bruchlandung
+	\input{Chapters/see}%
+
+%Kajiras Tod
+	\input{Chapters/Beerdigung/beerdigung}%
+	\input{Chapters/Beerdigung/beerdigung2}%
+	\input{Chapters/Beerdigung/beerdigung3}%
+	\input{Chapters/Beerdigung/beerdigung4}%
+	\input{Chapters/Beerdigung/eliok}%
+	\input{Chapters/Beerdigung/eliok2}%
+	\input{Chapters/Beerdigung/eliok3}%
+	\input{Chapters/Beerdigung/labor}%
+	\input{Chapters/Beerdigung/revolution}%
+
+\chapter{Diverses}%
+	\input{Chapters/vampyr}%
+	\input{Chapters/riesenwaechter}%
+	\input{Chapters/feuerallee}%
+	\input{Chapters/Schlacht/schlacht1}%
+	\input{Chapters/feuerkaefer}%%
+	\input{Chapters/fliegenmitfeuervogel}%
+	\input{Chapters/panther}%
+	\input{Chapters/krug}%
+	\input{Chapters/holnis}%
+	\input{Chapters/Feuermagier/magie_vs_energie}%
+	\input{Chapters/superportal/superportal}%
+	\input{Chapters/lavamann}%
+\end{document}

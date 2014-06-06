@@ -1,0 +1,415 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node COLOR="#000000" CREATED="1312218718790" ID="ID_389782121" MODIFIED="1312222255814" STYLE="fork" TEXT="Yasmin">
+<font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1312219187813" ID="ID_751226954" MODIFIED="1312221552833" POSITION="left" STYLE="fork" TEXT="V&#xf6;lker">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1312219017016" ID="ID_1001715697" MODIFIED="1312226679296" STYLE="fork" TEXT="Krieger des Lichts">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312219059162" ID="ID_824034808" MODIFIED="1312221905546" STYLE="fork" TEXT="Yasmin">
+<font BOLD="true" NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1312219063209" FOLDED="true" ID="ID_865214877" MODIFIED="1312226651717" STYLE="fork" TEXT="Iorn">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312221664349" ID="ID_809776163" MODIFIED="1312221667983" TEXT="Weiser"/>
+</node>
+<node COLOR="#990000" CREATED="1312219083446" FOLDED="true" ID="ID_711214822" MODIFIED="1312226949311" STYLE="fork" TEXT="Tesala">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_816525706" MODIFIED="1312226927504" STYLE="bubble" TEXT="Hobby: Studium der Magie in der Kriegsf&#xfc;hrung">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312219089869" FOLDED="true" ID="ID_1295537967" MODIFIED="1312226950022" STYLE="fork" TEXT="Namib">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_1526449604" MODIFIED="1312226940199" STYLE="bubble" TEXT="Hobby: Studium der Kriegsgeschichte">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1312224622740" ID="ID_1984047671" MODIFIED="1312226693577" STYLE="bubble" TEXT="Lichtmagie">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1312219034818" FOLDED="true" ID="ID_1130995071" MODIFIED="1312226667227" STYLE="fork" TEXT="Feen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312220999992" FOLDED="true" ID="ID_382324809" MODIFIED="1312223184324" STYLE="fork" TEXT="Eliok">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312221111043" ID="ID_590942612" MODIFIED="1312221672298" STYLE="fork" TEXT="Weiser"/>
+<node COLOR="#111111" CREATED="1312221138602" ID="ID_552856764" MODIFIED="1312223150422" STYLE="fork" TEXT="Bewahrer der Mutter des Lebens"/>
+</node>
+<node COLOR="#990000" CREATED="1312221503889" FOLDED="true" ID="ID_1403131733" MODIFIED="1312223186515" TEXT="&quot;Yasmins Stamm&quot;">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312221007102" ID="ID_340730797" MODIFIED="1312221920769" STYLE="fork" TEXT="Leira">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1312221202985" ID="ID_191313793" MODIFIED="1312221272597" TEXT="Partnerin von Alyna"/>
+<node COLOR="#111111" CREATED="1312221219369" ID="ID_204235462" MODIFIED="1312221705359" TEXT="erste Drachen-Botschafterin"/>
+</node>
+<node COLOR="#111111" CREATED="1312221010449" ID="ID_1374810486" MODIFIED="1312221923824" STYLE="fork" TEXT="Alyna">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1312221257311" ID="ID_1722685398" MODIFIED="1312221262487" TEXT="Partnerin von Leira"/>
+<node COLOR="#111111" CREATED="1312221278817" ID="ID_859975249" MODIFIED="1312221727018" TEXT="erste Pr&#xe4;sidentin"/>
+<node COLOR="#111111" CREATED="1312221737476" ID="ID_265792775" MODIFIED="1312221759241" TEXT="Stammesf&#xfc;hrerin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312221294651" FOLDED="true" ID="ID_252189530" MODIFIED="1312223188772" TEXT="J&#xe4;gerinnen des Mondes">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312221004298" ID="ID_1555520897" MODIFIED="1312221608005" STYLE="fork" TEXT="Noirana">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1312221626156" ID="ID_1367061729" MODIFIED="1312221635433" TEXT="Schwester von Alice"/>
+</node>
+<node COLOR="#111111" CREATED="1312221613516" ID="ID_684090601" MODIFIED="1312221616558" TEXT="Alice">
+<node COLOR="#111111" CREATED="1312221618219" ID="ID_461258594" MODIFIED="1312221623127" TEXT="Schwester von Noirana"/>
+<node COLOR="#111111" CREATED="1312221636849" ID="ID_646203703" MODIFIED="1312221642873" TEXT="Wissenschaftlerin"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1312223534351" ID="ID_463425874" MODIFIED="1312223609298" STYLE="bubble" TEXT="Naturmagie">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1312219047900" ID="ID_210831147" MODIFIED="1312226959180" STYLE="fork" TEXT="Drachen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312219152353" ID="ID_432786246" MODIFIED="1312226964660" STYLE="fork" TEXT="Kajira">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312221312743" ID="ID_1723139240" MODIFIED="1312226998963" STYLE="bubble" TEXT="Mutter der Drachen"/>
+<node COLOR="#111111" CREATED="1312221322195" ID="ID_1952213239" MODIFIED="1312226998960" STYLE="bubble" TEXT="Partnerin von Nor Da&apos;el"/>
+</node>
+<node COLOR="#990000" CREATED="1312222060715" FOLDED="true" ID="ID_1124422236" MODIFIED="1312223196280" TEXT="Doras Clan">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312219157641" ID="ID_1144328759" MODIFIED="1312222060731" STYLE="fork" TEXT="Dora">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1312221351394" ID="ID_396961554" MODIFIED="1312221387601" TEXT="Clanf&#xfc;hrerin"/>
+<node COLOR="#111111" CREATED="1312222000244" ID="ID_170709885" MODIFIED="1312222005871" TEXT="Partnerin von Karol"/>
+</node>
+<node COLOR="#111111" CREATED="1312221982100" ID="ID_230990501" MODIFIED="1312222073530" TEXT="Karol">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1312221989496" ID="ID_1506693473" MODIFIED="1312221993706" TEXT="Partner von Dora"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312222089061" ID="ID_769006630" MODIFIED="1312226976971" TEXT="Aarons Clan">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312222101089" ID="ID_1078708248" MODIFIED="1312222104988" TEXT="Aaron">
+<node COLOR="#111111" CREATED="1312222107184" ID="ID_300054410" MODIFIED="1312226998965" STYLE="bubble" TEXT="Clanf&#xfc;hrer"/>
+</node>
+<node COLOR="#111111" CREATED="1312222136780" ID="ID_1245057567" MODIFIED="1312222140673" TEXT="Delana">
+<node COLOR="#111111" CREATED="1312222367793" ID="ID_856644684" MODIFIED="1312226998968" STYLE="bubble" TEXT="Mutter eines Sohnes"/>
+<node COLOR="#111111" CREATED="1312222386694" ID="ID_486757039" MODIFIED="1312226998968" STYLE="bubble" TEXT="Adoptivmutter eines Sohnes"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312219167649" ID="ID_917235324" MODIFIED="1312226960998" STYLE="fork" TEXT="Nor Da&apos;el">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312221812666" ID="ID_1577735919" MODIFIED="1312226998969" STYLE="bubble" TEXT="Partner von Kajira"/>
+<node COLOR="#111111" CREATED="1312221825554" ID="ID_335506350" MODIFIED="1312226998969" STYLE="bubble" TEXT="Besch&#xfc;tzer des Feenwaldes"/>
+</node>
+<node COLOR="#990000" CREATED="1312222171869" ID="ID_1469856050" MODIFIED="1312223283149" STYLE="bubble" TEXT="haben keinen Weisen">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1312224727435" ID="ID_1317097702" MODIFIED="1312224740857" STYLE="bubble" TEXT="Feuermagie">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1312219052186" FOLDED="true" ID="ID_477154182" MODIFIED="1312226665261" STYLE="fork" TEXT="Menschen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312219180097" ID="ID_848905446" MODIFIED="1312221914925" STYLE="fork" TEXT="Hendrik">
+<font BOLD="true" NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1312222203261" FOLDED="true" ID="ID_462418718" MODIFIED="1312226663730" TEXT="Duranjar">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312222211983" ID="ID_732368578" MODIFIED="1312223664098" STYLE="bubble" TEXT="Einzahl: Duranja">
+<font ITALIC="true" NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1312222229033" ID="ID_722585792" MODIFIED="1312223716973" STYLE="bubble" TEXT="halb Mensch halb Spinne">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1312224657274" ID="ID_628837412" MODIFIED="1312224695334" STYLE="bubble" TEXT="leben in H&#xf6;hlen">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1312224683534" FOLDED="true" ID="ID_111898935" MODIFIED="1312226661567" STYLE="bubble" TEXT="Bergbau">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312226508111" ID="ID_1278653784" MODIFIED="1312226522769" TEXT="haben aber keine eigene Verwendung f&#xfc;r Rohstoffe"/>
+<node COLOR="#111111" CREATED="1312226532990" ID="ID_810822116" MODIFIED="1312226546804" TEXT="Handel mit anderen V&#xf6;lkern gegen Waren"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1312223328135" ID="ID_484256426" MODIFIED="1312223362339" TEXT="Zwerge">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1312227053120" ID="ID_1311114705" MODIFIED="1312227097096" TEXT="Wandelnde Schatten">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1312227126926" ID="ID_1578964091" MODIFIED="1312227132285" TEXT="Vampyra">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1312219213602" ID="ID_919034303" MODIFIED="1312221552789" POSITION="right" STYLE="fork" TEXT="Magie">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1312219252914" ID="ID_950238207" MODIFIED="1312221552783" STYLE="fork" TEXT="Objekte">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312219235618" ID="ID_484012002" MODIFIED="1312221196038" STYLE="fork" TEXT="&quot;der Stab&quot;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1312219290283" ID="ID_38961281" MODIFIED="1312222699424" STYLE="fork" TEXT="Mutter des Lebens">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1312219265463" FOLDED="true" ID="ID_697578151" MODIFIED="1312226587448" STYLE="fork" TEXT="Tr&#xe4;ne der Mutter">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_493700730" MODIFIED="1312226401414" STYLE="bubble" TEXT="St&#xfc;ck von der Mutter des Lebens">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312219301191" FOLDED="true" ID="ID_5049335" MODIFIED="1312226586331" STYLE="fork" TEXT="Lichtschwert">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_541902359" MODIFIED="1312226378937" STYLE="bubble" TEXT="Waffe der Lichtkrieger">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312219307539" FOLDED="true" ID="ID_1607569575" MODIFIED="1312226584996" STYLE="fork" TEXT="Lichtbogen">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_294535864" MODIFIED="1312226368189" STYLE="bubble" TEXT="Waffe der Lichtkrieger">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312222724286" FOLDED="true" ID="ID_722972827" MODIFIED="1312226583768" TEXT="Allm&#xe4;chtiges Auge">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_99046961" MODIFIED="1312226436035" STYLE="bubble" TEXT="Kristall">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1312226438381" ID="ID_171690992" MODIFIED="1312226470689" STYLE="bubble" TEXT="vereint alle Magiearten">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312222751862" FOLDED="true" ID="ID_562752489" MODIFIED="1312226582507" TEXT="Feengold">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_659815735" MODIFIED="1312226311522" STYLE="bubble" TEXT="magisches Metall">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_1397898084" MODIFIED="1312226347692" STYLE="bubble" TEXT="l&#xe4;sst Licht nur in eine Richtung durch">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312225928602" FOLDED="true" ID="ID_1290243359" MODIFIED="1312226581240" TEXT="Portal">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_348408283" MODIFIED="1312226185108" STYLE="bubble" TEXT="Bauwerk">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1312226185922" ID="ID_974738547" MODIFIED="1312226270489" STYLE="bubble" TEXT="Ursprung unbekannt">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1312226196164" ID="ID_165467710" MODIFIED="1312226270485" STYLE="bubble" TEXT="bilden ein Netzwerk">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1312226208478" ID="ID_970188477" MODIFIED="1312226294585" STYLE="bubble" TEXT="erm&#xf6;glichen Reisen untereinander ohne Zeitverlust">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1312219317157" ID="ID_106875600" MODIFIED="1312223779987" STYLE="fork" TEXT="Zauber">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312222578394" ID="ID_1192300614" MODIFIED="1312222583545" TEXT="Licht">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312219328878" FOLDED="true" ID="ID_899132160" MODIFIED="1312226573242" STYLE="fork" TEXT="Sicht der Dinge">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1312223879242" ID="ID_1247828161" MODIFIED="1312225190950" STYLE="bubble" TEXT="&quot;Blick hinter die Kulissen&quot;">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1312225191918" ID="ID_1829679878" MODIFIED="1312225246950" STYLE="bubble" TEXT="Beziehungen der Wesen zueinander">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1312224313278" FOLDED="true" ID="ID_441688482" MODIFIED="1312226574547" TEXT="Sternensilber">
+<node COLOR="#111111" CREATED="1312224345141" ID="ID_1470607077" MODIFIED="1312224375499" STYLE="bubble" TEXT="erleuchtet den Raum um den Magier">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1312224499266" FOLDED="true" ID="ID_546796162" MODIFIED="1312226577815" TEXT="Seelentransfer">
+<node COLOR="#111111" CREATED="1312224529039" ID="ID_111390755" MODIFIED="1312224611891" STYLE="bubble" TEXT="&#xfc;bertr&#xe4;gt die Seele eines Wesens in ein anderes">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1312224574854" ID="ID_1007931247" MODIFIED="1312224611897" STYLE="bubble" TEXT="kein Schaden f&#xfc;r den Wirt">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1312224586551" ID="ID_231777519" MODIFIED="1312224611905" STYLE="bubble" TEXT="die &#xfc;bertragene Seele l&#xf6;st sich mit der Zeit auf">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1312225191918" ID="ID_1321325575" MODIFIED="1312225274564" STYLE="bubble" TEXT="ersch&#xf6;pft den Magier">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_119224846" MODIFIED="1312225292838" STYLE="bubble" TEXT="&#xfc;berm&#xe4;&#xdf;iger Gebrauch t&#xf6;dlich">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312223501871" ID="ID_1399353500" MODIFIED="1312223506801" TEXT="Schatten">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312225410390" FOLDED="true" ID="ID_1686347941" MODIFIED="1312226605934" TEXT="Portal">
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_380839137" MODIFIED="1312225451427" STYLE="bubble" TEXT="&#xf6;ffnet ein Portal zu einem anderen Ort">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1312225452332" ID="ID_200332169" MODIFIED="1312225472117" STYLE="bubble" TEXT="Portal nur f&#xfc;r Magier sichtbar / benutzbar">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_1030025766" MODIFIED="1312225377104" STYLE="bubble" TEXT="gibt dem Magier ein gutes Gef&#xfc;hl, St&#xe4;rkegef&#xfc;hl">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_1440482701" MODIFIED="1312225335616" STYLE="bubble" TEXT="&#xfc;berm&#xe4;&#xdf;iger Gebrauch f&#xfc;hrt zur Sucht">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312222487505" ID="ID_757136146" MODIFIED="1312222566595" TEXT="Feuer">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312222475324" FOLDED="true" ID="ID_1821781785" MODIFIED="1312226608115" TEXT="Feuertelepprtation">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1312223879242" ID="ID_1683092816" MODIFIED="1312224959817" STYLE="bubble" TEXT="in Flammen aufl&#xf6;sen und an anderer Stelle aus Flammen erscheinen">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1312224961117" ID="ID_1286132477" MODIFIED="1312224983692" STYLE="bubble" TEXT="nur mit dem eigenen K&#xf6;rper m&#xf6;glich">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1312219345220" FOLDED="true" ID="ID_1327439961" MODIFIED="1312226609508" STYLE="fork" TEXT="Flammenhaut">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1312223879242" ID="ID_763881929" MODIFIED="1312223888722" STYLE="bubble" TEXT="Heilung mit Hilfe des Feuers">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1312222468930" FOLDED="true" ID="ID_961223511" MODIFIED="1312226610980" TEXT="Sicht des Feuers">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1312223879242" ID="ID_7786749" MODIFIED="1312224813161" STYLE="bubble" TEXT="kann magische Flammen in anderen Wesen erkennen">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1312219356829" FOLDED="true" ID="ID_382528359" MODIFIED="1312226612457" STYLE="fork" TEXT="Feuerkugel">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1312223879242" ID="ID_1927640156" MODIFIED="1312224835827" STYLE="bubble" TEXT="Schwebende Kugel(n) aus Feuer">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1312222541749" ID="ID_1654255196" MODIFIED="1312222547251" TEXT="Wasser">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1312223507914" ID="ID_25811414" MODIFIED="1312223510494" TEXT="Luft">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1312223511043" ID="ID_1191804305" MODIFIED="1312223513650" TEXT="Erde">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1312223514334" ID="ID_922311881" MODIFIED="1312223517304" TEXT="Natur">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1312225514644" FOLDED="true" ID="ID_1480155866" MODIFIED="1312226614385" TEXT="Kraft der Pflanzen">
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_1264195465" MODIFIED="1312225610655" STYLE="bubble" TEXT="magisch unterst&#xfc;tzte Kr&#xe4;utermedizin">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1312225621177" FOLDED="true" ID="ID_1061680417" MODIFIED="1312226615791" TEXT="Mutter der Natur">
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_1688338154" MODIFIED="1312225813780" STYLE="bubble" TEXT="l&#xe4;sst Pflanzen schneller wachsen">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1312225668153" FOLDED="true" ID="ID_1087737564" MODIFIED="1312226617280" TEXT="Freunde der Natur">
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_782607415" MODIFIED="1312225725552" STYLE="bubble" TEXT="l&#xe4;sst Pflanzen in jede gew&#xfc;nschte Form wachsen">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1312225277467" ID="ID_1891192026" MODIFIED="1312225763322" STYLE="bubble" TEXT="starke Bindung zwischen Magier und Pflanze n&#xf6;tig">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1312222413362" ID="ID_1834066359" MODIFIED="1312222416090" TEXT="Wesen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312222420971" FOLDED="true" ID="ID_700317962" MODIFIED="1312226622738" TEXT="Ph&#xf6;nix">
+<font NAME="SansSerif" SIZE="14"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1312222436714" ID="ID_1867185071" MODIFIED="1312223654982" STYLE="bubble" TEXT="Feuerteleportation">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1312222451298" ID="ID_1416508413" MODIFIED="1312223677234" STYLE="bubble" TEXT="Sicht des Feuers">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1312219219905" ID="ID_1834887074" MODIFIED="1312221552771" POSITION="right" STYLE="fork" TEXT="Orte">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1312222764994" FOLDED="true" ID="ID_1085075310" MODIFIED="1312226626063" TEXT="Gro&#xdf;e Bibliothek">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312223069644" ID="ID_1873337853" MODIFIED="1312223733748" STYLE="bubble" TEXT="Sammlung des Wissens der Welt">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1312222783641" FOLDED="true" ID="ID_1644308367" MODIFIED="1312226627242" TEXT="Tempel der Weisen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312223039054" ID="ID_417546081" MODIFIED="1312223735413" STYLE="bubble" TEXT="Treffpunkt des Rates der Weisen">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1312222807793" ID="ID_862696154" MODIFIED="1312222815310" TEXT="Lufttempel">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1312223010828" FOLDED="true" ID="ID_656398351" MODIFIED="1312226634996" TEXT="Menschen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312222823646" ID="ID_1071244508" MODIFIED="1312223414118" TEXT="Liano">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1312222999964" FOLDED="true" ID="ID_74617734" MODIFIED="1312226636090" TEXT="Zwerge">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312222819396" ID="ID_1260725553" MODIFIED="1312223351678" TEXT="Dohar">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1312222261392" FOLDED="true" ID="ID_1137845501" MODIFIED="1312222614244" POSITION="left" TEXT="Rat der Weisen">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1312222273920" ID="ID_187633355" MODIFIED="1312222311720" TEXT="Mitglieder">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1312222279229" ID="ID_1724304313" MODIFIED="1312222339005" TEXT="Iorn (Krieger des Lichts)">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1312222287249" ID="ID_1649729318" MODIFIED="1312222346529" TEXT="Eliok (Feen)">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+</node>
+</map>

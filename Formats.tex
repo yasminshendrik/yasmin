@@ -1,0 +1,21 @@
+%% aktuellen Ordner wechseln
+%\def\folder{}
+%
+%\edef\oldinput#1{}
+%\let\oldinput=\input
+%
+%
+%\newenvironment{includefolder}[1]%
+%	{	\edef\newfolder{\folder #1/}
+%		\edef\oldfolder{\folder}
+%		\let\folder=\newfolder
+%		\renewcommand{\input}[1]{\oldinput{\folder ##1}}
+%	}{\let\folder=\oldfolder}
+
+\edef\oldsection#1{}
+\let\oldsection=\section
+\renewcommand{\section}[1]{\newpage\oldsection{#1}}
+
+
+\newcommand{\magic}[1]{{\textsc{#1}}}
+\newcommand{\geist}[1]{\emph{#1}}
